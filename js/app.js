@@ -8,7 +8,7 @@ const anchorStyle = 'color: #000; padding: 1rem; display: inline-block; text-dec
 //      "For Loop" To Add The Anchors
 for (let i = 1; i < 5; i++) {
   const item = document.createElement('a');
-  item.innerHTML = `Section ${i}`;
+  item.innerText = `Section ${i}`;
   item.href = `#section${i}`;
   navBar.appendChild(item);
 }
