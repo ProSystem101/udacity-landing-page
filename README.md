@@ -29,6 +29,6 @@ I've just edited the "app.js" file, the "index.html" and "styles.css" are by Uda
 
 ## Reference
 
-For more information about this project refer to Udacity's Professional Front-End Web Development Program.
+For more information about this project, refer to Udacity's Professional Front-End Web Development Program.
 
 ## egFWD 
