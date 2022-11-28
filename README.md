@@ -16,7 +16,7 @@ To get started, you just need a web browser (FireFox, Chrome, Edge, Opera,...) t
 
 ## Installation
 
-To install the files, install Git on your machine and use the command git clone followed by the URL of this repo.
+To install the files, install Git on your machine and use the command `git clone` followed by the URL of this repo.
 
 ## Modification
 
