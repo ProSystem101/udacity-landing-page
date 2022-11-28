@@ -2,17 +2,21 @@
 
 ## Table of Contents
 
+* [Information](#information)
 * [Instructions](#instructions)
 * [Installation](#installation)
 * [Modification](#modification)
 * [Technologies](#technologies)
-* [Information](#information)
 * [Authors](#authors)
 * [Reference](#reference)
 
-## Instructions
+## Information
 
-> This project is ment for educational purposes (Udacity's Professional Front-End Web Development).
+> This project is ment for educational purposes *(Udacity's Professional Front-End Web Development Program)*.
+> The project is about giving some basic functionalities to the DOM using `JavaScript`.
+> I've just edited the `app.js` file, the `index.html` & `styles.css` are by ***Udacity***.
+
+## Instructions
 
 To get started, use your web browser, ie. **FireFox, Chrome, Edge, Opera,...**, and enter the `index.html` location.
 
@@ -26,17 +30,12 @@ To edit the files, use a text editor/IDE (VS Code, Atom, Vim,...), or you can us
 
 ## Technologies
 
-The used technologies are:
+I've used these technologies:
 
 - "vanilla" `JavaScript` to edit `index.html` & `styles.css` files.
 - Replit website, to code on the cloud.
 
 > The word "vanilla" basically means: pure.
-
-## Information
-
-The project is about giving some basic functionalities to the DOM with JS.
-I've just edited the `app.js` file, the `index.html` & `styles.css` are by Udacity.
 
 ## Authors
 
