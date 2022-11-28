@@ -5,7 +5,7 @@
 * [Instructions](#instructions)
 * [Installation](#installation)
 * [Modification](#modification)
-* [Technologies Used](#technologies-used)
+* [Technologies](#technologies)
 * [Information](#information)
 * [Authors](#authors)
 * [Reference](#reference)
@@ -24,9 +24,9 @@ To get the files, install `git` on your machine and use the command `git clone` 
 
 To edit the files, use a text editor/IDE (VS Code, Atom, Vim,...), or you can use an online IDE.
 
-## Technologies Used
+## Technologies
 
-I used:
+The used technologies are:
 
 - "vanilla" `JavaScript` to edit `index.html` & `styles.css` files.
 - Replit website, to code on the cloud.
@@ -40,7 +40,8 @@ I've just edited the `app.js` file, the `index.html` & `styles.css` are by Udaci
 
 ## Authors
 
-The modifier of the `app.js` file is: ***Ahmed Muhammad***.
+- The author of the `index.html` & `styles.css` is: ***Udacity***.
+- The author of the `app.js` file is: ***Ahmed Muhammad***.
 
 ## Reference
 
