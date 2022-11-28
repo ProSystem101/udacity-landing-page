@@ -5,9 +5,9 @@
 * [Instructions](#instructions)
 * [Installation](#installation)
 * [Modification](#modification)
-* [Technologies Used](#technologies used)
+* [Technologies Used](#technologies-used)
 * [Information](#information)
-* [Author's Name](#author's name)
+* [Author's Name](#author's-name)
 * [Reference](#reference)
 
 ## Instructions
