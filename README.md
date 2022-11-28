@@ -7,7 +7,7 @@
 * [Modification](#modification)
 * [Technologies Used](#technologies-used)
 * [Information](#information)
-* [Author's Name](#author-name)
+* [Authors](#authors)
 * [Reference](#reference)
 
 ## Instructions
