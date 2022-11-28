@@ -38,7 +38,7 @@ I used:
 The project is about giving some basic functionalities to the DOM with JS.
 I've just edited the `app.js` file, the `index.html` & `styles.css` are by Udacity.
 
-## Author's Name
+## Authors
 
 The modifier of the `app.js` file is: ***Ahmed Muhammad***.
 
